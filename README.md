@@ -14,6 +14,8 @@
  ## Screenshots
  <div>
    ![‏‏צילום מסך (613)](https://github.com/user-attachments/assets/77289f2e-77e6-4548-85d1-36294fb29aad)
+  
+
    ![‏‏צילום מסך (614)](https://github.com/user-attachments/assets/de3d25dc-b818-44e4-a10d-2e0101537f37)
    ![‏‏צילום מסך (615)](https://github.com/user-attachments/assets/cd53257e-0923-4891-8aa5-190196e4a353)
 </div>
