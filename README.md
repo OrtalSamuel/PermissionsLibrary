@@ -12,13 +12,10 @@
 - contacts permission
 
  ## Screenshots
- <div>
- 
-   
-  
-![‏‏צילום מסך (613)](https://github.com/user-attachments/assets/0824ba02-f41a-417a-a825-d8a1fafb2b72)
-   ![‏‏צילום מסך (614)](https://github.com/user-attachments/assets/de3d25dc-b818-44e4-a10d-2e0101537f37)
-   ![‏‏צילום מסך (615)](https://github.com/user-attachments/assets/cd53257e-0923-4891-8aa5-190196e4a353)
+<div class="screenshots">
+   <img src="https://github.com/user-attachments/assets/0824ba02-f41a-417a-a825-d8a1fafb2b72" width="200" height="300">
+   <img src="https://github.com/user-attachments/assets/de3d25dc-b818-44e4-a10d-2e0101537f37" width="200" height="300">
+   <img src="https://github.com/user-attachments/assets/cd53257e-0923-4891-8aa5-190196e4a353" width="200" height="300">
 </div>
 
 # License
